@@ -23,5 +23,10 @@ public class SeleniumTest {
 		System.out.println("elementsUip");	
 	}
 	
+	@Test
+	public void elementsUipa()
+	{
+		System.out.println("elementsUipa");	
+	}
 	
 }
