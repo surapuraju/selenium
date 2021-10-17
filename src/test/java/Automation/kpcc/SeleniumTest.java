@@ -17,5 +17,11 @@ public class SeleniumTest {
 		System.out.println("elementsUi");	
 	}
 	
+	@Test
+	public void elementsUip()
+	{
+		System.out.println("elementsUip");	
+	}
+	
 	
 }
