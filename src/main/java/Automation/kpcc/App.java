@@ -1,7 +1,7 @@
 package Automation.kpcc;
 
 /**
- * Hello world!
+ * Hello world! Java!!
  *
  */
 public class App 
